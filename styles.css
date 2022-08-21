@@ -1,0 +1,21 @@
+.fourd {
+  margin: 50px;
+  background-color: blue;
+}
+
+.third {
+  background-color: yellow;
+}
+
+.second {
+  background-color: green;
+}
+
+.first {
+  background-color: pink;
+}
+
+.box-moduls {
+  padding: 50px;
+  border: 2px solid black;
+}
